@@ -15,6 +15,4 @@ Installation
 
 To run this program, an API key from AlphaVantage is needed (https://www.alphavantage.co/support/#api-key). The free API key gives access to non-premium APIs only, and limits to 25 API requests per day. Save API key in settings.ini, under api_key.
 
-To run the program in Python environment, download the source_codes folder. For reference, I use Python 3.13.
-
-To run the program without Python, download the executable folder.
+To run the program, download the source_codes folder. For reference, I use Python 3.13.
